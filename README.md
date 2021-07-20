@@ -4,7 +4,7 @@ O objetivo desse projeto é colocar em prática os conhecimentos dos hooks de Re
 e ganhar cada vez mais autonomia no desenvolviento com essa biblioteca.
 
 ```
-var const detalhes = {
+const detalhes = {
   autor: 'Gabriel Nobre',
   linguagem: 'JavaScript',
   biblioteca: 'React',
