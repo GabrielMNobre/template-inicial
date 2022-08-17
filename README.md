@@ -1,14 +1,14 @@
-# Calculadora
+# Template de incialização básico
 
-O objetivo desse projeto é colocar em prática os conhecimentos dos hooks de React
-e ganhar cada vez mais autonomia no desenvolviento com essa biblioteca.
+O objetivo deste projeto é criar um template inicial para criação de sistemas em ReactJs, 
+com funcionalidades de validação de commit e estrutura inicial do código
 
 ```
 const detalhes = {
   autor: 'Gabriel Nobre',
   linguagem: 'JavaScript',
   biblioteca: 'React',
-  projeto: 'Calculadora',
+  projeto: 'Template Básico',
 }
 
 export default detalhes;
