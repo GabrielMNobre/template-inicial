@@ -1,4 +1,4 @@
-# Template de incialização básico
+# Template de inicialização básico
 
 O objetivo deste projeto é criar um template inicial para criação de sistemas em ReactJs, 
 com funcionalidades de validação de commit e estrutura inicial do código
